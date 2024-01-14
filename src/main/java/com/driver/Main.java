@@ -23,9 +23,9 @@ public class Main {
 		// TODO Auto-generated method stub
 
 		Product p= new Product();
-		System.out.println(p.Product(5, 6));
-		System.out.println(p.Product(6 , 7, 8));
-		System.out.println(p.product(9, 9));
+		p.Product(5, 6);
+		p.Product(6 , 7, 8);
+		p.product(9, 9);
 		
 	}
 
