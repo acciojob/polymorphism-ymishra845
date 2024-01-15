@@ -26,7 +26,7 @@ public static  class Product{
 		Product p= new Product();
 		p.Product(5, 6);
 		p.Product(6 , 7, 8);
-		p.product(9, 9);
+		p.product(9.0, 9.0);
 		
 	}
 
